@@ -32,7 +32,7 @@ The app allows users to **create, view, update, delete, search, filter, and sort
 
 ### Database
 
-* SQLite (default)
+* Postgre SQL
 
 ---
 
